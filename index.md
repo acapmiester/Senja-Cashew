@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Savour the View in Senja Cashew Community Club
 
-You can use the [editor on GitHub](https://github.com/acapmiester/Senja-Cashew/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Located near Bukit Panjang MRT, the Senja Cashew Community Club offers a wide range of activites and a beautiful scenery for us to wonder in. It is the perfect combination of the natural and human environment working together
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+From badminton courts to swimming pools to walking along the reservoir, one can do so much things here in Senja Cashew Community Club!
 
-### Markdown
+### Activities to do
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Below are some of the activities one can engage in alone or with a group of people!
 
 ```markdown
 Syntax highlighted code block
